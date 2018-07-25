@@ -10,6 +10,8 @@ http://www.chartjs.org/docs/latest/charts/
 
 Many time we need to create own graph but in magento 2 here knockout is using i will try how can we create a chart in magento 2 
 
+# Also check on 
+https://magento.stackexchange.com/questions/235955/how-can-draw-chart-in-knockout-js-in-magento-2
 
 # I am try with two types of graph
 
