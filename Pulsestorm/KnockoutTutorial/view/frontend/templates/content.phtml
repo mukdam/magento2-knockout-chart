@@ -1,0 +1,17 @@
+<h1>This is my template, there are many like it, but this one is mine.</h1>
+<div  data-bind="scope: 'chartscope'"> 
+	<!-- ko template: getTemplate() --><!-- /ko -->
+</div>
+<script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "chartscope": {
+                            "component": "Pulsestorm_KnockoutTutorial/js/chart"
+                        }
+                    }
+                }
+            }
+        }
+</script>
